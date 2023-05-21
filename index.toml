@@ -425,12 +425,8 @@ file = "config/xaeroworldmap.txt"
 hash = "251e12c2245f3ed53b6bfe359985c76451defc643b975fa1913e78cef2c282bb"
 
 [[files]]
-file = "gitattributes.txt"
-hash = "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
-
-[[files]]
-file = "gitignore.txt"
-hash = "0da7771a851764545577b5db7998d14b4ce490937e7e46d96db4c70b1bcfc1dc"
+file = "mods/XPFromHarvest-1.16.5-1.2.2.jar"
+hash = "28ccd6568ffb0f155bea299f6f8e56b585ee39d414d6198c349656315315f541"
 
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
