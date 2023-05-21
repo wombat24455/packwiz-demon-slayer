@@ -1,0 +1,13 @@
+name = "More Villager Trades"
+filename = "More Villager Trades 1.0.0 - 1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e1e024af28356d6b4fe69993e25c8ba3f98458b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3778718
+project-id = 620323

@@ -1,0 +1,13 @@
+name = "Netherite Elytra"
+filename = "netherelytra-curios-1.1.2-1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a575dab9c262a01f52302b3224756bba9fa5c350"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3649880
+project-id = 402031

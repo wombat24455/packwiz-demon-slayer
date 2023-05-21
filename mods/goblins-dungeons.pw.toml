@@ -1,0 +1,13 @@
+name = "Goblins & Dungeons"
+filename = "Goblins_Dungeons_1.0.6-1.16.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c3f57fc6ae3b9d7c310566e50fe6f99c8639321"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3680113
+project-id = 535096

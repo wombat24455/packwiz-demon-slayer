@@ -1,0 +1,13 @@
+name = "Unique Enchantments"
+filename = "Unique Enchantments-1.16.5-2.3.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bdf9cb1f70fa65fb13ad6ee012793792b8feb2a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4184941
+project-id = 348891

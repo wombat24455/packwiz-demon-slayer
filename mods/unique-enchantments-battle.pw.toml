@@ -1,0 +1,13 @@
+name = "Unique Enchantments - Battle"
+filename = "Unique Enchantments Battle-1.16.5-1.4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a206495c9d0754fe7b29ad217bc4d1341c2a5513"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4158111
+project-id = 491806

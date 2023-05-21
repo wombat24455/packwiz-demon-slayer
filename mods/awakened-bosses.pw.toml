@@ -1,0 +1,13 @@
+name = "Awakened Bosses"
+filename = "Awakened Bosses 1.0.3 - 1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ff4a37405c9be8e50f67a17afcbfcf777932c98"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3755536
+project-id = 548167

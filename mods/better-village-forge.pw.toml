@@ -1,0 +1,13 @@
+name = "Better Villages - Forge"
+filename = "bettervillage-forge-1.16.5-3.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "96afeedcfdc3cf68d75a722cd9f04bf018974cff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4491886
+project-id = 615352

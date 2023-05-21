@@ -1,0 +1,13 @@
+name = "Tiny Mob Farm"
+filename = "TinyMobFarm-1.16.5-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad3494f56863890408cd9f289784d08cd5e7a599"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4073829
+project-id = 311880

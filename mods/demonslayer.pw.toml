@@ -1,0 +1,13 @@
+name = "Kimetsu no Yaiba (Demon Slayer)"
+filename = "KimetsunoYaiba_1.16.5_ver39.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0cfc832a1609d8691f98f8d58ae8a3f2561b3c80"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3842512
+project-id = 471263

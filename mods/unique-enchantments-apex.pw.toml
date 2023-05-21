@@ -1,0 +1,13 @@
+name = "Unique Enchantments Apex"
+filename = "Unique Enchantments Apex-1.16.5-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f9ed6f1dbe7764175495ee2de015ae9698521f80"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4158118
+project-id = 596310

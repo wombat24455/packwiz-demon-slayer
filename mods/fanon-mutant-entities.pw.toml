@@ -1,0 +1,13 @@
+name = "Fanon Mutant Entities"
+filename = "FanonMutantEntities_mobPreview.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8749de8addc004e53fe3daa80cc4dd66a6cb90f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3995272
+project-id = 674895

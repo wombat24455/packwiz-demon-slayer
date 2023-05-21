@@ -1,0 +1,13 @@
+name = "Mutant Villager!"
+filename = "mutantvillager-0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "77b18d265160098b7c5bd0ed68b8ba4e45fbd9df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3586217
+project-id = 561011

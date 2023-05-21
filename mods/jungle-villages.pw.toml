@@ -1,0 +1,13 @@
+name = "Jungle Villages"
+filename = "Jungle Villages 1.16.5  v1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b0e7751aada6949ae200431dc5a8cbfa24925331"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3270323
+project-id = 469109

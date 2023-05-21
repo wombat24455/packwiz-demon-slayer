@@ -1,0 +1,13 @@
+name = "Villager Trades"
+filename = "villagertrades-0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b27124241d5f3efeeab66aedfa140d6a3357f82"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3274634
+project-id = 433422

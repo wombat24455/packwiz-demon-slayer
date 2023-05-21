@@ -1,0 +1,13 @@
+name = "Kimetsu Animation (Demon Slayer Animation)"
+filename = "KimetsuAnimation_1.16.5_ver5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c179532a8f93dadd588d9404ee4ee09fc409a186"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3842514
+project-id = 546141

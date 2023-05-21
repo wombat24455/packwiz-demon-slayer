@@ -1,0 +1,11 @@
+name = "demon slayer minecraft"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "744da63bcd0e70a36c8b419cc55f01d45c18c481e34294962c8baee98dfbe81c"
+
+[versions]
+forge = "36.2.39"
+minecraft = "1.16.5"

@@ -1,0 +1,13 @@
+name = "Mutant Wolf"
+filename = "Mutant Wolf 1.2.1 - 1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e4d96e379f521a92931cc72de08dd043fa21e1be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3640436
+project-id = 484888

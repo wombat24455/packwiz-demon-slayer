@@ -1,0 +1,13 @@
+name = "ToroHealth Damage Indicators"
+filename = "torohealth-1.16.4-forge-4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "51c64e724ee276cee1d04398261f80aacf635ab4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3144151
+project-id = 245733
